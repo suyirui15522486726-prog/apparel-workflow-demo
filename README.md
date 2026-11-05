@@ -2,6 +2,12 @@
 
 [在线演示](https://suyirui15522486726-prog.github.io/apparel-workflow-demo/)
 
+V0.5 · 2026-11-05
+
+- 从[大客户现货](https://suyirui15522486726-prog.github.io/apparel-workflow-demo/#route-wh-key-account)、[大客户定款跟产](https://suyirui15522486726-prog.github.io/apparel-workflow-demo/#route-sales-key-custom)、[069 门店调拨](https://suyirui15522486726-prog.github.io/apparel-workflow-demo/#route-wh-store-transfer)三种单型进入；[部门目录](https://suyirui15522486726-prog.github.io/apparel-workflow-demo/#overview)可查九部门共28条业务线路。
+- 部门页保留原试点画布、指标和绩效卡，同时补上同部门的其他路径、交付物和下一次拿单核实的问题。公开内容只含业务口径，不含原图、私人单据或员工信息。
+- [线路手册 Markdown](九部门业务线路与交接手册_V0.5.md)。
+
 V0.4 · 2026-11-05
 - 默认从[实施优先级首页](https://suyirui15522486726-prog.github.io/apparel-workflow-demo/)开始讲解，再进入对应部门；[实施顺序直达](https://suyirui15522486726-prog.github.io/apparel-workflow-demo/#priorities)可用于会审定位。
 - 部门页将工作流、数据流与本部门建议配分饼图放在一起，例如[设计研发与版房](https://suyirui15522486726-prog.github.io/apparel-workflow-demo/#dept-design)、[人事 / HR](https://suyirui15522486726-prog.github.io/apparel-workflow-demo/#dept-hr)。点指标查看原岗位事项、公式、两端数据、复核和例外；岗位示例每岗2–3项，销售另列展厅与跟单。
