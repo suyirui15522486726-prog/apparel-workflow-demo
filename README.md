@@ -2,6 +2,12 @@
 
 [在线演示](https://suyirui15522486726-prog.github.io/apparel-workflow-demo/)
 
+V0.6 · 逐步联动的岗位与数据画布
+
+- [大客户现货画布](https://suyirui15522486726-prog.github.io/apparel-workflow-demo/#route-wh-key-account)：在岗位交接图点一张卡，切换到这一步的单据、回执、交付物与使用人。
+- 九部门 28 条线、125 张岗位卡；补充资料及原专题详图默认收起。未涉及商陆花的步骤不画 ERP 连线，候选数据只作会审。
+- [画布手册](岗位交接与数据流画布_V0.6.md)。
+
 V0.5 · 2026-11-05
 
 - 从[大客户现货](https://suyirui15522486726-prog.github.io/apparel-workflow-demo/#route-wh-key-account)、[大客户定款跟产](https://suyirui15522486726-prog.github.io/apparel-workflow-demo/#route-sales-key-custom)、[069 门店调拨](https://suyirui15522486726-prog.github.io/apparel-workflow-demo/#route-wh-store-transfer)三种单型进入；[部门目录](https://suyirui15522486726-prog.github.io/apparel-workflow-demo/#overview)可查九部门共28条业务线路。
