@@ -3,9 +3,11 @@
 [在线演示](https://suyirui15522486726-prog.github.io/apparel-workflow-demo/)
 
 V0.4 · 2026-11-05
-- [岗位绩效试评](./?dept=design#performance)整合九个工作流部门及财务协作专题。点指标查看原岗位事项、公式、两端数据、复核和例外。
-- [员工岗位怎么考](./?dept=sales&view=role#performance)给出11个试点示例，每岗2–3项。建议权重、预警和期限待会签，试跑只反馈。
-- [管理学依据](./?view=theory#performance)逐项链接原始研究，区分管理原则与本公司待验证的指标参数。
+- 默认从[实施优先级首页](https://suyirui15522486726-prog.github.io/apparel-workflow-demo/)开始讲解，再进入对应部门；[实施顺序直达](https://suyirui15522486726-prog.github.io/apparel-workflow-demo/#priorities)可用于会审定位。
+- 部门页将工作流、数据流与本部门建议配分饼图放在一起，例如[设计研发与版房](https://suyirui15522486726-prog.github.io/apparel-workflow-demo/#dept-design)、[人事 / HR](https://suyirui15522486726-prog.github.io/apparel-workflow-demo/#dept-hr)。点指标查看原岗位事项、公式、两端数据、复核和例外；岗位示例每岗2–3项，销售另列展厅与跟单。
+- [跨部门交接](https://suyirui15522486726-prog.github.io/apparel-workflow-demo/#handoff)承接协作边界及财务协作子任务，财务不作为各岗共用的全岗考核表。
+- [会审与评估](https://suyirui15522486726-prog.github.io/apparel-workflow-demo/#evaluation)页底折叠“管理学依据与验证方法”，需要解释依据时展开；部门讲解直接从相应部门页开始。
+- 旧[绩效入口](https://suyirui15522486726-prog.github.io/apparel-workflow-demo/#performance)保留兼容历史链接，不作为默认首页或主讲入口。建议权重、预警和期限待会签，试跑只反馈。
 - 岗位表的原始文件、证据索引及个人得分存放在内部。本站不连接正式业务系统。
 - [配套 V0.4 绩效试评口径](九部门工作流与绩效试评方案_V0.4.md)。
 
