@@ -2,6 +2,12 @@
 
 [在线演示](https://suyirui15522486726-prog.github.io/apparel-workflow-demo/)
 
+V0.7 · 跨部门协作试点
+
+- 新增加工厂发单报检、数量与工艺变更、产前样交接、财务申请与核销四条试点线路。
+- 岗位交接与数据流同页联动，问题与待核事项直接展示。
+- [试点与部门画布手册](岗位交接与数据流画布_V0.7.md)。
+
 V0.6 · 逐步联动的岗位与数据画布
 
 - [大客户现货画布](https://suyirui15522486726-prog.github.io/apparel-workflow-demo/#route-wh-key-account)：在岗位交接图点一张卡，切换到这一步的单据、回执、交付物与使用人。
